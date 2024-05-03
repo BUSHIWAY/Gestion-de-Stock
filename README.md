@@ -28,20 +28,20 @@ Cloner le répertoire vers votre dossier local.
 Compiler les fichiers .c pour avoir un fichier executable.
 
 ```
-  ~$ gcc Functions/Affichage.c Functions/Extract.c Functions/Insert.c Functions/Ajout_List.c Functions/Suppression_List.c Functions/Search.c Functions/Edit.c Functions/Sort.c -o app GESTIONRR.c
+~$ gcc Functions/Affichage.c Functions/Extract.c Functions/Insert.c Functions/Ajout_List.c Functions/Suppression_List.c Functions/Search.c Functions/Edit.c Functions/Sort.c -o app GESTIONRR.c
 ```
 #### Executer
 
 Executer le fichier .exe.
 
 ```
-  ~$ app.exe
+~$ app.exe
 ```
 
 ### Usage
 ---
 
-![Usage du programme](https://github.com/BUSHIWAY/Gestion-de-Stock.git/ScreenShots/Usage.png)
+![Usage du programme](ScreenShots/Usage.png)
 
 ### Details
 ---
@@ -110,4 +110,4 @@ il existe 2 choix d'ajout :
 - **Triage par le prix du produit**: En utilisant la commande "P" ou "p".
 
 ---
-**Have fun using it!!** :joy:
+**Have fun using it!!** 😃
