@@ -11,7 +11,7 @@
 
 **Conditions**
 
-Vous devez disposer d'un compilateur des fichiers .c pour être apte à installer et Configurer se projet dans votre ordinateur.
+Vous devez disposer d'un compilateur des fichiers .c pour être apte à installer et Configurer ce projet dans votre ordinateur.
 
 #### Cloner
 
