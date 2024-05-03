@@ -59,12 +59,12 @@ Executer le fichier .exe.
 - Après que l'utilisateur sort du programme les modifications appliquées sur "products" vont être insérer au fichier "stock.txt".
 
 - L'application offre à l'utilisateur 6 fonction principale :
-1. L'Affichage des données des produits de la liste.
-2. L'ajout d'un produit à la liste.
-3. La suppression d'un produit de la liste.
-4. La modification d'une donné d'un produit de la liste.
-5. La recherche d'un produit de la liste.
-6. Le triage de la liste.
+  1. L'Affichage des données des produits de la liste.
+  2. L'ajout d'un produit à la liste.
+  3. La suppression d'un produit de la liste.
+  4. La modification d'une donné d'un produit de la liste.
+  5. La recherche d'un produit de la liste.
+  6. Le triage de la liste.
 
 
 ### Affichage
