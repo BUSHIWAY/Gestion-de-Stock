@@ -6,8 +6,6 @@
 
 **GESTIONAIRR est une application console dédiée à la gestion des produits et la manipulation de leurs informations en utilisant le langage C et la gestion de fichiers**
 
-![Demostration](ScreenShots/Demontration.mp4)
-
 ### Installation
 ---
 
@@ -74,7 +72,7 @@ Executer le fichier .exe.
 
 En utilisant la commande "A" ou "a".
 
-#### Ajout 
+### Ajout 
 ---
 
 il existe 3 choix d'ajout :
@@ -82,7 +80,7 @@ il existe 3 choix d'ajout :
 - **Ajout à la fin**: En utilisant la commande "2".
 - **Ajout à une position donnée**: En utilisant la commande "3".
 
-#### Suppression 
+### Suppression 
 ---
 
 il existe 3 choix d'ajout :
@@ -90,19 +88,19 @@ il existe 3 choix d'ajout :
 - **Suppression à la fin**: En utilisant la commande "5".
 - **Suppression à une position donnée**: En utilisant la commande "6".
 
-#### Modification 
+### Modification 
 ---
 
 En utilisant la commande "7".
 
-#### Recherche 
+### Recherche 
 ---
 
 il existe 2 choix d'ajout :
 - **La recherche avec le nom du produit**: En utilisant la commande "8".
 - **La recherche avec le nom de l'utilisateur du produit**: En utilisant la commande "7".
 
-#### Triage
+### Triage
 ---
 
 il existe 2 choix d'ajout :
