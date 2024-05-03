@@ -6,6 +6,7 @@
 #include "Headers/colors.h"
 #include "Functions/global.h"
 
+
 // Declarer les Macros qui vont prendre comme valeur les lignes du logo
 
 #define HEAD1 ANSI_MAGENTA "  GGGGG    EEEEEE     SSSSS   TTTTTTT    IIIII     OOOO     N    N     AAAAA     IIIII     RRRRRR      RRRRRR  " ANSI_RESET
