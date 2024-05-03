@@ -6,7 +6,7 @@
 
 **GESTIONAIRR est une application console dédiée à la gestion des produits et la manipulation de leurs informations en utilisant le langage C et la gestion de fichiers**
 
-![Demostration](ScreenShots/Demontration.mp4)
+![Demostration](https://github.com/BUSHIWAY/Gestion-de-Stock.git/ScreenShots/Demontration.mp4)
 
 ### Installation
 ---
@@ -41,7 +41,7 @@ Executer le fichier .exe.
 ### Usage
 ---
 
-![Usage du programme](ScreenShots/Usage.png)
+![Usage du programme](https://github.com/BUSHIWAY/Gestion-de-Stock.git/ScreenShots/Usage.png)
 
 ### Details
 ---
@@ -50,7 +50,7 @@ Executer le fichier .exe.
 
 - Au cas où vous voulez travailler avec votre fichier de stock, il doit être sous cette forme :
 
-![Format du fichier](ScreenShots/Format.png)
+![Format du fichier](https://github.com/BUSHIWAY/Gestion-de-Stock.git/ScreenShots/Format.png)
 
 **Toute autre forme, le programme va malfonctionner!**
 
