@@ -31,6 +31,7 @@ void Command () {
     printf(ANSI_CYAN "\n\nVoici les commandes a executer :\n" ANSI_RESET);
     printf(ANSI_MAGENTA "\tAffichage : \n" ANSI_RESET);
     printf(ANSI_BLUE "\t\tA" ANSI_RESET " \t- Pour afficher les donnees des produits de la liste.\n");
+    printf(ANSI_BLUE "\t\tA" ANSI_RESET " \t- Pour afficher ce menue.\n");
     printf(ANSI_MAGENTA "\tAjout : \n" ANSI_RESET);
     printf(ANSI_BLUE "\t\t1" ANSI_RESET " \t- Pour ajouter un produit au debut de la liste.\n");
     printf(ANSI_BLUE "\t\t2" ANSI_RESET " \t- Pour ajouter un produit a la fin de la liste.\n");
