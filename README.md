@@ -44,7 +44,9 @@ Executer le fichier .exe.
 ### Details
 ---
 
-- **GESTIONAIRR** est application Console sert à stocker une liste de produit dans un fichier stock.txt trouvé dans un dossier Stock.
+- **GESTIONAIRR** est application Console sert à stocker une liste de produit dans un fichier "stock.txt" trouvé dans un dossier Stock.
+
+- le fichier "stock.txt" prédéfini avec le projet est un fichier de test.
 
 - Au cas où vous voulez travailler avec votre fichier de stock, il doit être sous cette forme :
 
@@ -83,7 +85,7 @@ il existe 3 choix d'ajout :
 ### Suppression 
 ---
 
-il existe 3 choix d'ajout :
+il existe 3 choix de suppression :
 - **Suppression au debut**: En utilisant la commande "4".
 - **Suppression à la fin**: En utilisant la commande "5".
 - **Suppression à une position donnée**: En utilisant la commande "6".
@@ -96,14 +98,14 @@ En utilisant la commande "7".
 ### Recherche 
 ---
 
-il existe 2 choix d'ajout :
+il existe 2 choix de recherche :
 - **La recherche avec le nom du produit**: En utilisant la commande "8".
 - **La recherche avec le nom de l'utilisateur du produit**: En utilisant la commande "7".
 
 ### Triage
 ---
 
-il existe 2 choix d'ajout :
+il existe 2 choix de triage :
 - **Triage par le nom du produit**: En utilisant la commande "N" ou "n".
 - **Triage par le prix du produit**: En utilisant la commande "P" ou "p".
 
