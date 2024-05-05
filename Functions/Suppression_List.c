@@ -36,7 +36,7 @@ Prod* Delete(Prod* prod, int choice){
     // Vérifier si le choix est de supprimer un produit d'une position donnee
     else if ( choice == 3 ) {
         Prod* deleted = prod->next;
-        int indexe = 1, position;
+        int position;
 
         printf(ANSI_MAGENTA "\nEntrer La position voulue >> " ANSI_RESET);
         scanf("%d", &position);
